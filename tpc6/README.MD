@@ -1,4 +1,4 @@
-# relatório do tp5
+# relatório do tp6
 ## Data: 22/10/2024
 ## Autor: a105917 Ana Ribeiro 
 ## Resumo
